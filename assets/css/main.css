@@ -2061,7 +2061,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/banner.png") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2137,8 +2137,8 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
+					/* color: #eee; */
+					/* color: rgba(255, 255, 255, 0.75); */
 					text-transform: uppercase;
 					text-decoration: none;
 					font-size: 0.7em;
@@ -2154,11 +2154,11 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a {
-					color: #fff;
+					/* color: #fff; */
 				}
 
 				#nav > ul > li.active > a, #nav > ul > li.active > span {
-					color: #fff;
+					/* color: #fff; */
 				}
 
 	.dropotron {
@@ -2187,8 +2187,8 @@ input, select, textarea {
 			-ms-transition: all .25s ease-in-out;
 			transition: all .25s ease-in-out;
 			display: block;
-			color: #eee;
-			color: rgba(255, 255, 255, 0.75);
+			/* color: #eee; */
+			/* color: rgba(255, 255, 255, 0.75); */
 			text-transform: uppercase;
 			text-decoration: none;
 			font-size: 0.7em;
